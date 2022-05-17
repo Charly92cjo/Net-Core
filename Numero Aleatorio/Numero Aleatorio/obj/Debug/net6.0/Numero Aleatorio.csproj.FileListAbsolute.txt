@@ -1,0 +1,15 @@
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.exe
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.deps.json
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.runtimeconfig.json
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.dll
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\bin\Debug\net6.0\Numero Aleatorio.pdb
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.csproj.AssemblyReference.cache
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.AssemblyInfoInputs.cache
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.AssemblyInfo.cs
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.dll
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\refint\Numero Aleatorio.dll
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.pdb
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\Numero Aleatorio.genruntimeconfig.cache
+C:\Users\charl\OneDrive\Escritorio\Curso_Net\Tarea Clase 6\Numero Aleatorio\Numero Aleatorio\obj\Debug\net6.0\ref\Numero Aleatorio.dll
