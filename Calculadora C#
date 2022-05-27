@@ -1,0 +1,24 @@
+//caluladora
+//
+//var numero1 = int.Parse(Console.ReadLine());  //int.Parse convierte un string a un numero     
+//var numero2 = int.Parse(Console.ReadLine());          
+//var operacion = Console.ReadLine();   
+//var resultado = 0;    
+//if (operacion == "+") 
+//{     
+//    resultado = numero1 + numero2;    
+//} 
+//else if (operacion == "-")
+//{
+//    resultado = numero1 - numero2;
+//}
+//else if (operacion == "*")
+//{
+//    resultado = numero1 * numero2;    
+//} 
+//else if (operacion == "/")    
+//{ 
+//    resultado = numero1 / numero2;
+//}
+//Console.WriteLine(resultado);
+  
